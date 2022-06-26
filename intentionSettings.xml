@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/在单引号字符串和双引号字符串之间转换" />
+    <ignoreAction name="Python/为变量添加类型提示" />
+    <ignoreAction name="Language injection/注入语言或引用" />
+  </component>
+</application>
