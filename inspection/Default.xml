@@ -9,8 +9,10 @@
         <option value="W292" />
         <option value="W605" />
         <option value="E265" />
+        <option value="E712" />
       </list>
     </option>
   </inspection_tool>
   <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
