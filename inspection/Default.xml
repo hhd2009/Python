@@ -15,6 +15,8 @@
         <option value="E305" />
         <option value="E402" />
         <option value="W391" />
+        <option value="E301" />
+        <option value="E128" />
       </list>
     </option>
   </inspection_tool>
@@ -25,6 +27,16 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredNames">
+      <list>
+        <option value="str" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
