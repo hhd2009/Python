@@ -1,8 +1,8 @@
-ÖĞ»ªÈËÃñ¹²ºÍ¹ú-ººÓï
-±§Ç¸£¬ÎÒ²¢Ã»ÓĞ¼ò»¯os±ê×¼¿âµÄËùÓĞÄ£¿é£¬Èç¹ûÄúÃ»ÓĞÔÚ±¾µÚÈı·½¿âÖĞÕÒµ½ÄúÏëÓÃµÄÄ£¿é£¬ÇëÄúµ¼Èëos±ê×¼¿â¡£
-#ÇëÄú×ñÊØ±¾µÚÈı·½¿âµÄGUN-3.0¿ª·ÅÔ´´úÂëĞí¿É£¬°æÈ¨ËùÓĞ (c) º®¶¬ÀûÈĞ¡£
-#·ÃÎÊÎÒµÄÖ÷Ò³<http://192.168.3.115:8000/ >¡£
-
+ä¸­åäººæ°‘å…±å’Œå›½-æ±‰è¯­
+æŠ±æ­‰ï¼Œæˆ‘å¹¶æ²¡æœ‰ç®€åŒ–osæ ‡å‡†åº“çš„æ‰€æœ‰æ¨¡å—ï¼Œå¦‚æœæ‚¨æ²¡æœ‰åœ¨æœ¬ç¬¬ä¸‰æ–¹åº“ä¸­æ‰¾åˆ°æ‚¨æƒ³ç”¨çš„æ¨¡å—ï¼Œè¯·æ‚¨å¯¼å…¥osæ ‡å‡†åº“ã€‚
+#è¯·æ‚¨éµå®ˆæœ¬ç¬¬ä¸‰æ–¹åº“çš„GUN-3.0å¼€æ”¾æºä»£ç è®¸å¯ï¼Œç‰ˆæƒæ‰€æœ‰ (c) å¯’å†¬åˆ©åˆƒã€‚
+#è®¿é—®æˆ‘çš„ä¸»é¡µ<http://192.168.3.115:8000/ >ã€‚
+#åé¦ˆä½¿ç”¨é”™è¯¯<https://github.com/hhd2009/Python/issues/1/ >ã€‚
 
 English
 Sorry,I did not simplify all the modules of the OS standard library.If you do not find the
@@ -10,3 +10,4 @@ modules you want to use in this third-party library,please import the OS standar
 #Please comply with the GUN-3.0 open source license of this third party library.
 #Copyright (c) HDLR.
 #Visit my home page<http://192.168.3.115:8000/ >.
+Feedback is used incorrectly<https://github.com/hhd2009/Python/issues/1/ >.
