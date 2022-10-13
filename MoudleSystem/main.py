@@ -32,5 +32,3 @@ def moudle_code(code_name='code.py'):
 	find_moudle(code_name)
 	import_moudle(code_name)
 	run_moudle(code_name)
-
-moudle_code()
