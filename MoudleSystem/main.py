@@ -1,5 +1,7 @@
 import os
 
+version='1.0'
+
 def find_moudle(code_name='code.py'):
 	global moudle_list
 	if os.path.isdir('moudle'):
